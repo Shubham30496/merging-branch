@@ -3,3 +3,11 @@ this is index file
 this update is done by conversation by both developers 
 
 update for pull request 
+<<<<<<< Updated upstream
+=======
+
+update index on 2/3/23 by master
+>>>>>>> Stashed changes
+
+
+this stash change is as it is
